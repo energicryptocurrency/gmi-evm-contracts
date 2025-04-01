@@ -1,15 +1,15 @@
-# GMI Ethereum contracts
+# GMI EVM contracts
 
-This repo have all the contracts related to GMI Ethereum contract, this contracts can be deployed on any EVM chain
+This repo have all the contracts related to GMI EVM contract, this contracts can be deployed on any EVM chain
 
 ## Project Status
 
-GMI Ethereum contract repo is active and is maintained by Energi Core LTD
+GMI EVM contract repo is active and is maintained by Energi Core LTD
 
 ## Authors and acknowledgment
 
 - [@leon](https://github.com/LeonDolinar)
-- [@haidar.ali](https://git.energi.software/haidar.ali)
+- [@haidar](https://github.com/haidaralimasu)
 
 ## Quickstart
 
@@ -21,7 +21,7 @@ GMI Ethereum contract repo is active and is maintained by Energi Core LTD
 **Clone the repo**
 
 ```sh
-git clone https://git.energi.software/energi/tech/dweb/nft/marketplace/ethereum-contracts
+git clone https://github.com/energicryptocurrency/gmi-evm-contracts.git
 ```
 
 **Install all dependencies**

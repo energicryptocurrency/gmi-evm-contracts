@@ -83,6 +83,12 @@ module.exports = {
       url: 'https://testnet-rpc.monad.xyz',
       accounts: [process.env.WALLET_PRIVATE_KEY],
     },
+    skaleNebulaTestnet: {
+      weth: '0x0000000000000000000000000000000000000000',
+      chainId: 37084624,
+      url: 'https://testnet.skalenodes.com/v1/lanky-ill-funny-testnet',
+      accounts: [process.env.WALLET_PRIVATE_KEY],
+    },
   },
   etherscan: {
     apiKey: {
@@ -122,6 +128,14 @@ module.exports = {
       urls: {
         apiURL: 'https://testnet-rpc.monad.xyz',
         browserURL: 'https://monad-testnet.socialscan.io/',
+      },
+    },
+    {
+      network: 'skaleNebulaTestnet',
+      chainId: 37084624,
+      urls: {
+        apiURL: 'https://lanky-ill-funny-testnet.explorer.testnet.skalenodes.com/api',
+        browserURL: 'https://lanky-ill-funny-testnet.explorer.testnet.skalenodes.com',
       },
     },
   ],

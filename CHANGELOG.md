@@ -1,4 +1,4 @@
-# GMI Ethereum Contracts Changelog
+# GMI EVM Contracts Changelog
 
 ## v0.1.0
 
